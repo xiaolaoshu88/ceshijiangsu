@@ -1,5 +1,5 @@
 public class TestJiangsu {
     public static void main(String[]agrs){
-        System.out.printf("航天八号正式发射成功");
+        System.out.printf("航天成功");
     }
 }
